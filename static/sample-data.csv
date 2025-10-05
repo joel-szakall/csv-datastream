@@ -1,0 +1,27 @@
+MonitoringLocationID,CharacteristicName,ResultValue,ResultUnit,ActivityStartDate,ActivityStartTime
+DS-001,Temperature, water,15.5,deg C,2024-01-15,10:30:00
+DS-001,Temperature, water,16.2,deg C,2024-01-16,10:30:00
+DS-001,Temperature, water,14.8,deg C,2024-01-17,10:30:00
+DS-001,Temperature, water,15.9,deg C,2024-01-18,10:30:00
+DS-001,Temperature, water,16.5,deg C,2024-01-19,10:30:00
+DS-001,pH,7.2,pH units,2024-01-15,10:30:00
+DS-001,pH,7.4,pH units,2024-01-16,10:30:00
+DS-001,Dissolved oxygen (DO),8.5,mg/L,2024-01-15,10:30:00
+DS-002,Temperature, water,18.3,deg C,2024-01-15,11:00:00
+DS-002,Temperature, water,19.1,deg C,2024-01-16,11:00:00
+DS-002,Temperature, water,17.8,deg C,2024-01-17,11:00:00
+DS-002,Temperature, water,18.6,deg C,2024-01-18,11:00:00
+DS-002,pH,7.8,pH units,2024-01-15,11:00:00
+DS-002,Dissolved oxygen (DO),9.2,mg/L,2024-01-15,11:00:00
+DS-003,Temperature, water,12.4,deg C,2024-01-15,12:00:00
+DS-003,Temperature, water,13.1,deg C,2024-01-16,12:00:00
+DS-003,Temperature, water,12.8,deg C,2024-01-17,12:00:00
+DS-003,pH,6.9,pH units,2024-01-15,12:00:00
+DS-004,Temperature, water,20.5,deg C,2024-01-15,13:00:00
+DS-004,Temperature, water,21.2,deg C,2024-01-16,13:00:00
+DS-004,Temperature, water,20.8,deg C,2024-01-17,13:00:00
+DS-004,Temperature, water,21.5,deg C,2024-01-18,13:00:00
+DS-004,Temperature, water,20.9,deg C,2024-01-19,13:00:00
+DS-004,Temperature, water,21.3,deg C,2024-01-20,13:00:00
+DS-004,pH,7.6,pH units,2024-01-15,13:00:00
+

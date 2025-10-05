@@ -134,7 +134,8 @@
 			searchQuery = '';
 			result = null;
 		} catch (err) {
-			error = err instanceof Error ? err.message : 'Failed to process CSV file';
+			error = 'Failed to process CSV file';
+			console.error(err);
 			records = [];
 			recordsIndex = new Map();
 			monitoringLocations = [];
@@ -166,7 +167,8 @@
 				result = calculatedResult;
 			}
 		} catch (err) {
-			error = err instanceof Error ? err.message : 'Failed to calculate average';
+			error ='Failed to calculate average';
+			console.error(err);
 			result = null;
 		}
 	}
